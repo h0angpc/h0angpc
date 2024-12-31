@@ -3,7 +3,7 @@
 
 - Instagram: [_chouh.an_](https://www.instagram.com/_chouh.an_/)
 
-- My Resume: [Resume](https://github.com/bichsonnhat/bichsonnhat/blob/main/Resume.pdf)
+- My Resume: [Resume](https://github.com/h0angpc/h0angpc/blob/main/OFFICIAL_RESUME%20(English%20Version).pdf)
 
 ## 🔧 Languages I Contribute To
 
