@@ -1,7 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Hoang 👋
+- Facebook: [Phan Châu Hoàng](https://www.facebook.com/hoangpcwall/)
 
+- Instagram: [_chouh.an_](https://www.instagram.com/_chouh.an_/)
+
+- My Resume: [Resume](https://github.com/bichsonnhat/bichsonnhat/blob/main/Resume.pdf)
+
+## 🔧 Languages I Contribute To
+
+- **TypeScript**: Contributed to [Clean](www.uit-clean.me)
+- **Java**: Contributed to [HachikoCoffee](https://github.com/h0angpc/HachikoCoffee)
+- **C#**: Frequently used in [SpaManagement](https://github.com/h0angpc/SpaManagement)
+- **Dart**: Contributed to [02.-Online-course-System](https://github.com/ASE-UIT/02.-Online-course-System)
+- **JavaScript**: Frequently used in [h2lib](https://github.com/BuiTrongHoangHuy/libma-ui)
 <!--
-**h0angpc/h0angpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
