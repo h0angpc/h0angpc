@@ -5,12 +5,12 @@
 
 - My Resume: [Resume](https://github.com/h0angpc/h0angpc/blob/main/OFFICIAL_RESUME%20(English%20Version).pdf)
 
-## 🔧 Languages I Contribute To
+## 🌐 Contributions by Language
 
-- **TypeScript**: Contributed to [Clean](www.uit-clean.me)
-- **Java**: Contributed to [HachikoCoffee](https://github.com/h0angpc/HachikoCoffee)
-- **C#**: Frequently used in [SpaManagement](https://github.com/h0angpc/SpaManagement)
-- **Dart**: Contributed to [02.-Online-course-System](https://github.com/ASE-UIT/02.-Online-course-System)
+- **TypeScript**: Contributed to [Clean](https://www.uit-clean.me)
+- **Java**: Worked on [HachikoCoffee](https://github.com/h0angpc/HachikoCoffee)
+- **C#**: Actively used in [SpaManagement](https://github.com/h0angpc/SpaManagement)
+- **Dart**: Contributed to [Online Course System](https://github.com/ASE-UIT/02.-Online-course-System)
 - **JavaScript**: Frequently used in [h2lib](https://github.com/BuiTrongHoangHuy/libma-ui)
 <!--
 
